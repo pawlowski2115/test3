@@ -1,0 +1,11 @@
+{
+    "model": "mercedes",
+    "rocznik": 1904,
+    "Przebieg": 180000.9,
+    "kierowcy": ["Jerzy", "Stefan"],
+    "Trasa":{
+        "Przystanki": 12,
+        "Kilometry": 12
+    },
+    "Przeglad": false
+}
